@@ -5,6 +5,7 @@ Repository công khai này chứa chính sách quyền riêng tư của từng �
 | Ứng dụng | Chính sách |
 | --- | --- |
 | Nhật Nguyệt (Android) | https://kataro92.github.io/spacekat-privacy-policies/nhat-nguyet/ |
+| KKorea Hangul | https://kataro92.github.io/spacekat-privacy-policies/kkorea-hangul/ |
 
 Trang danh mục: https://kataro92.github.io/spacekat-privacy-policies/
 
